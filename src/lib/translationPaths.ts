@@ -26,3 +26,20 @@ export const shopInfoPaths = {
   holidayFour: 'shopInfo.openingHours.holidayFour',
   holidayFive: 'shopInfo.openingHours.holidayFive',
 };
+
+// Paths to button names for the header in translation files
+export const menuButtonNames = {
+  home: 'menu.home',
+  copyPrint: 'menu.copyPrint',
+  customPrinting: 'menu.customPrinting',
+  overview: 'menu.overview',
+  stickers: 'menu.stickers',
+  cards: 'menu.cards',
+  flyers: 'menu.flyers',
+  folders: 'menu.folders',
+  posters: 'menu.posters',
+  customClothing: 'menu.customClothing',
+  contact: 'menu.contact',
+  officeSupplies: 'menu.articles',
+};
+
