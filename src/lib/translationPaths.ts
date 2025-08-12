@@ -1,14 +1,12 @@
-// Paths to Shop information information content in translation files
+// Paths to Shop information content
 export const shopInfoPaths = {
-  // REAL company info (hardcoded)
   name: 'Helloprint.az',
   adress: 'Binəqədi rayonu, Bakı',
-  zipCode: 'AZ1116',             
+  zipCode: 'AZ1116',
   town: 'Bakı',
   telNo: '+994 51 394 43 97',
   email: 'helloprint.office@gmail.com',
   facebookUrl: 'https://www.facebook.com/Helloprint.az',
-
   openingHoursMondayToFriday: '09:00 - 18:00',
   openingHoursSaturday: '10:00 - 17:00',
   openingHoursSunday: 'contactPage.closed',
@@ -27,7 +25,7 @@ export const shopInfoPaths = {
   holidayFive: 'shopInfo.openingHours.holidayFive',
 };
 
-// Paths to button names for the header in translation files
+// Paths to header menu buttons
 export const menuButtonNames = {
   home: 'menu.home',
   copyPrint: 'menu.copyPrint',
@@ -43,7 +41,7 @@ export const menuButtonNames = {
   officeSupplies: 'menu.articles',
 };
 
-// Paths to contact info content in translation files
+// Paths to contact info
 export const contactInfoTextContent = {
   contactTitle: 'shopInfo.contact.contactTitle',
   contactDetails: 'shopInfo.contact.contactDetails',
@@ -52,4 +50,9 @@ export const contactInfoTextContent = {
   address: 'shopInfo.contact.address',
 };
 
-
+// Paths to home page content
+export const homeContentPaths = {
+  welcomeTitle: 'home.welcomeTitle',
+  welcomeMessage: 'home.welcomeMessage',
+  ctaButton: 'home.ctaButton',
+};
