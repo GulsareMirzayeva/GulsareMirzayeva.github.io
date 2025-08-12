@@ -20,7 +20,7 @@ export default function Header() {
   // Used for translation with the i18next package, set default language to Dutch(nl)
   const { t, i18n } = useTranslation();
   const { stylePreset, setDarkMode, darkMode } = useData();
-  const [language, setLanguage] = useState(i18n.language || 'nl');
+  const [language, setLanguage] = useState(i18n.language || 'aze');
 
   // Keep track if mobile menu is opened or not
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
