@@ -1,682 +1,389 @@
 {
   "menu": {
-    "home": "Start",
-    "copyPrint": "Kopieren & Printen",
-    "overview": "Overzicht",
-    "customPrinting": "Drukwerk",
-    "stickers": "Stickers",
-    "cards": "Visitekaartjes",
-    "flyers": "Flyers",
-    "folders": "Folders",
-    "posters": "Posters",
-    "customClothing": "Kleding & Textiel",
-    "contact": "Contact",
-    "articles": "Kantoorartikelen"
+    "home": "Ana səhifə",
+    "copyPrint": "Çap və Kopyalama",
+    "overview": "Məhsullar",
+    "customPrinting": "Fərdi Çap",
+    "stickers": "Stikerlər",
+    "cards": "Vizit Kartlar",
+    "flyers": "Flayerlər",
+    "folders": "Qovluqlar",
+    "posters": "Afişalar",
+    "customClothing": "Geyim və Tekstil Çapı",
+    "contact": "Əlaqə",
+    "articles": "Ofis Ləvazimatları"
   },
   "home": {
-    "title": "Welkom bij copy <br /> & printshop 't Hartje",
-    "subTitle": "Al ruim 45 jaar een begrip in Groningen.",
-    "introduction": "Bij ons bent u aan het juiste adres voor alles op het gebied van kopiëren, printen en drukken. <br /> Wij hebben ook een groot assortiment <b>kantoorartikelen</b> en <b>cartridges</b>.",
-    "readMore": "Lees meer..."
+    "title": "Helloprint.az-a xoş gəlmisiniz",
+    "subTitle": "Peşəkar çap və dizayn xidmətləri",
+    "introduction": "Helloprint.az — brendinizi gücləndirəcək çap məhsulları üçün etibarlı ünvan. Vizit kartlardan afişalara, stikerlərdən geyim üzərinə çapa qədər hər şey bir məkanda. Keyfiyyətli, sürətli və sərfəli.",
+    "readMore": "Daha çox..."
   },
   "categoryCardsContent": {
     "copyPrint": {
-      "title": "Kopiëren & Printen",
+      "title": "Çap və Kopyalama",
       "icon": 0,
-      "introduction": "Snel printen of kopiëren, van brieven tot verslagen. Maak gebruik van onze self-service",
+      "introduction": "Sənədlərinizi, təqdimat və layihələrinizi yüksək keyfiyyətlə çap edin. Rəngli və qara-ağ seçimlər.",
       "content": [
-        "Kleur",
-        "Zwart-wit",
-        "Budgetoptie",
-        "Hoge kwaliteit",
-        "Inbinden",
-        "Lamineren"
+        "Rəngli çap",
+        "Qara-ağ çap",
+        "Büdcə variantı",
+        "Yüksək keyfiyyət",
+        "Dikmə",
+        "Laminasiya"
       ],
       "link": "/copy-print"
     },
     "customPrinting": {
-      "title": "Drukwerk",
+      "title": "Fərdi Çap",
       "icon": 1,
-      "introduction": "Professioneel drukwerk voor uw communicatiematerialen en promotiemiddelen.",
+      "introduction": "Brendinizi fərqləndirən çap məhsulları. Reklam, təqdimat və korporativ tədbirlər üçün ideal.",
       "content": [
-        "Kaarten",
-        "Stickers",
-        "Flyers",
-        "Folders",
-        "Posters",
-        "Magazines"
+        "Kartlar",
+        "Stikerlər",
+        "Flayerlər",
+        "Qovluqlar",
+        "Afişalar",
+        "Kataloqlar"
       ],
       "link": "/custom-print"
     },
     "customClothing": {
-      "title": "Kleding & Textiel",
+      "title": "Geyim və Tekstil Çapı",
       "icon": 2,
-      "introduction": "Laat uw kleding en textiel personaliseren met unieke bedrukkingen.",
+      "introduction": "T‑shirt, polo, sviter və digər geyimlər üzərinə yüksək keyfiyyətli çap.",
       "content": [
-        "T-shirt",
-        "Eigen kleding",
-        "Flex/Vinyl",
-        "Polo",
-        "Trui",
-        "Capuchontrui"
+        "T‑shirt çapı",
+        "Polo çapı",
+        "Sviter və kapşonlu",
+        "Flex/Vinil çap",
+        "Tam rəngli dizayn",
+        "Loqo və yazılar"
       ],
       "link": "/custom-clothing"
     },
     "officeSupplies": {
-      "title": "Kantoorartikelen",
+      "title": "Ofis Ləvazimatları",
       "icon": 3,
-      "introduction": "Alles wat u nodig heeft om uw werkplek optimaal in te richten en efficiënt te maken.",
+      "introduction": "İş mühitinizi tamamlamaq üçün bütün ofis məhsulları.",
       "content": [
-        "Papier",
-        "Cartridges",
-        "Ordners",
-        "Pennen",
-        "Markers",
-        "etc."
+        "Kağız",
+        "Kartriclər",
+        "Qovluqlar",
+        "Qələmlər",
+        "Markerlər",
+        "və digər"
       ],
       "link": "/office-supplies"
     }
   },
   "shopInfo": {
     "termsOfSale": {
-      "title": "Voorwaarden",
-      "acknowledgment": "Erkenning",
-      "proposals": "Offertes",
-      "orders": "Bestelling",
-      "payment": "Betaling",
-      "prices": "Prijzen",
-      "deliveries": "Leveringen",
-      "complaints": "Klachten"
+      "title": "Satış Şərtləri",
+      "acknowledgment": "Qəbul",
+      "proposals": "Təkliflər",
+      "orders": "Sifarişlər",
+      "payment": "Ödəniş",
+      "prices": "Qiymətlər",
+      "deliveries": "Çatdırılma",
+      "complaints": "Şikayətlər"
     },
     "adress": {
-      "title": "Bezoekadres",
-      "countryName": "Nederland",
-      "visitGoogleMaps": "Bekijk op Google Maps"
+      "title": "Ünvan",
+      "countryName": "Azərbaycan",
+      "visitGoogleMaps": "Xəritədə bax"
     },
     "openingHours": {
-      "hour": "uur",
-      "title": "Openingstijden",
-      "midweeks": "Maandag - Vrijdag",
-      "midweeksShort": "Ma. t/m vr.",
-      "saturday": "Zaterdag",
-      "sunday": "Zondag",
-      "closed": "Gesloten",
-      "telePhone": "Op werkdagen zijn wij telefonisch bereikbaar van",
-      "adjustedHoursAttention": "Let op! Aangepaste openingstijden",
-      "adjustedHoursIntroduction": "<br />Er staan weer feestdagen voor de deur.<br />Houd er rekening mee dat wij tijdens de genoemde dagen andere<br />openingstijden hantereren.<br /><br />Zie hiernaast het overzicht van de aangepaste openingstijden.",
-      "adjustedHoursTitle": "Wij zijn gesloten op:",
-      "holidayOne": "<br /><b>21 april</b><i> (maandag) </i><b> - Tweede Paasdag</b>",
-      "holidayTwo": "<b>26 april</b><i> (zaterdag) </i><b> - Koningsdag</b>",
-      "holidayThree": "<b>5 mei</b><i> (maandag) </i><b> - Bevrijdingsdag</b>",
-      "holidayFour": "<b>29 mei</b><i> (donderdag) </i><b> - Hemelvaartsdag</b>",
-      "holidayFive": "<b>9 juni</b><i> (maandag) </i><b> - Tweede Pinksterdag</b>"
+      "hour": "saat",
+      "title": "İş saatları",
+      "midweeks": "Bazar ertəsi - Cümə",
+      "midweeksShort": "B.e - C.",
+      "saturday": "Şənbə",
+      "sunday": "Bazar",
+      "closed": "Bağlı",
+      "telePhone": "Telefonla əlaqə üçün iş günlərində",
+      "adjustedHoursAttention": "Qeyd! Dəyişdirilmiş iş saatları",
+      "adjustedHoursIntroduction": "Bayram günlərində iş qrafikimiz dəyişə bilər.",
+      "adjustedHoursTitle": "Aşağıdakı günlərdə bağlıyıq:"
     },
     "contact": {
-      "contactDetails": "Contactgegevens",
-      "title": "Een vraag?",
-      "subtitle": "Wilt u een prijsopgave voor een product ontvangen? Wij voorzien u graag van een offerte op maat. Het aanvragen van een offerte is kosteloos en eenvoudig.",
-      "homePageSubtitle": "Wilt u een prijsopgave voor een product ontvangen?<br >Wij voorzien u graag van een offerte op maat.<br >Het aanvragen van een offerte is kosteloos en eenvoudig.",
-      "contactTitle": "Kunt u het juiste product of een prijs niet vinden? Of wilt u meer weten over het aanleveren van opdrachten? Het is altijd mogelijk om hieronder een vrijblijvende offerte aan te vragen",
-      "messageTitle": "Stuur een bericht of vraag offerte aan",
-      "contactForm": "Stuur bericht",
-      "confirmMessage": "<b>Bericht verzonden!</b><br />Wij zullen zo spoedig contact met u opnemen.",
+      "contactDetails": "Əlaqə məlumatları",
+      "title": "Sualınız var?",
+      "subtitle": "Məhsul və ya xidmət üçün qiymət təklifi istəyirsiniz? Sizin üçün fərdi təklif hazırlayaq.",
+      "homePageSubtitle": "Qiymət təklifi üçün bizimlə əlaqə saxlayın. Təklif pulsuzdur.",
+      "contactTitle": "Uyğun məhsulu tapa bilmirsiniz? Bizimlə əlaqə saxlayın.",
+      "messageTitle": "Mesaj göndərin və ya təklif istəyin",
+      "contactForm": "Mesaj göndər",
+      "confirmMessage": "<b>Mesaj göndərildi!</b><br />Tezliklə sizinlə əlaqə saxlayacağıq.",
       "errors": {
-        "telNoOnlyNumbers": "Telefoonnummer moet alleen cijfers bevatten.",
-        "telNoMinNumbers": "Telefoonnummer moet minimaal 10 cijfers bevatten.",
-        "telNoMaxNumbers": "Telefoonnummer mag maximaal 15 cijfers bevatten.",
-        "emailValidAddress": "Voer een geldig e-mailadres in",
-        "messageMinChars": "Bericht moet minimaal 10 tekens zijn",
-        "messageRequired": "Bericht is verplicht",
-        "requiredEmailOrTelNo": "Vul of een e-mailadres of telefoonnummer in.",
-        "errorSendingMail": "Fout bij het versturen: "
+        "telNoOnlyNumbers": "Telefon nömrəsi yalnız rəqəmlərdən ibarət olmalıdır.",
+        "telNoMinNumbers": "Telefon nömrəsi minimum 10 rəqəm olmalıdır.",
+        "telNoMaxNumbers": "Telefon nömrəsi maksimum 15 rəqəm olmalıdır.",
+        "emailValidAddress": "Düzgün e‑mail ünvanı daxil edin",
+        "messageMinChars": "Mesaj minimum 10 simvol olmalıdır",
+        "messageRequired": "Mesaj boş ola bilməz",
+        "requiredEmailOrTelNo": "Email və ya telefon nömrəsi daxil edin.",
+        "errorSendingMail": "Göndərmə zamanı xəta: "
       }
     }
   },
   "customClothingPage": {
     "pageHeaderContent": {
-      "title": "Bedrukken van kleding",
-      "introduction": "Voor het bedrukken van uw kleding hebben wij diverse technieken. We kunnen printen en snijden op flex materiaal, dit is ideaal voor een logo of tekst in één kleur.<br /> <br />Daarnaast hebben wij ook een DTG machine, DTG staat voor Direct To Garment, hierbij printen we direct op kleding."
+      "title": "Geyim üzərinə çap",
+      "introduction": "Helloprint.az geyim üzərinə çap üçün müxtəlif texnologiyalar təklif edir. Loqo və yazılar üçün Flex/Vinil çap, həmçinin rəngarəng dizaynlar üçün DTG (Direct To Garment) texnologiyası mövcuddur."
     },
     "cardTextileGarments": {
       "header": {
-        "title": "CREËER UNIEKE KLEDING",
-        "subTitle": "Kies een kledingstuk",
-        "introduction": "Onderstaande prijstabel geeft een overzicht van de kosten van diverse kledingstukken, zoals shirts, polo’s, truien en capuchontruien. Afhankelijk van uw keuze kan de bedrukking in zwart-wit of in kleur worden uitgevoerd. De uiteindelijke prijs is afhankelijk van het type kledingstuk en het formaat van de opdruk."
+        "title": "FƏRDİ GÖRÜNÜŞ YARADIN",
+        "subTitle": "İstədiyiniz geyimi seçin",
+        "introduction": "Aşağıdakı cədvəldə müxtəlif geyim növlərinin (T‑shirt, polo, sviter, kapşonlu sviter və s.) çap qiymətləri göstərilib. Qiymətlər geyim növü və dizayn ölçüsünə görə dəyişir."
       },
       "tableTextileGarments": {
-        "header": {
-          "title": "",
-          "subTitle": ""
-        },
         "variants": {
-          "shirt": "Shirt",
+          "shirt": "T‑shirt",
           "polo": "Polo",
-          "sweater": "Trui",
-          "hoody": "Capuchontrui"
+          "sweater": "Sviter",
+          "hoody": "Kapşonlu sviter"
         }
       }
     },
     "cardFlexAndDtg": {
       "header": {
-        "title": "FLEX OF DIRECT OP KLEDING",
-        "subTitle": "Kies een printtechniek",
-        "introduction": "Flex-materiaal is perfect voor strakke, éénkleurige ontwerpen zoals logo’s en teksten. Hieronder vindt u links onze tarieven voor printen en snijden. Met onze DTG-printer kunnen we direct op kleding printen, perfect voor gedetailleerde en kleurrijke ontwerpen. Hieronder vindt u rechts de tarieven voor kledingbedrukking.<br /><br /><b>Let op</b>: Wij kunnen uitsluitend op gekleurd of zwart textiel van onze eigen leverancier drukken, u kunt helaas niet gekleurd of zwart textiel aanleveren, daar waar wij dan niet de kwaliteit van de opdruk kunnen garanderen."
+        "title": "FLEX və ya DTG çap",
+        "subTitle": "Çap texnologiyasını seçin",
+        "introduction": "Flex/Vinil materialı loqo və yazılar kimi tək rəngli dizaynlar üçün idealdır. DTG texnologiyası isə geyim üzərinə birbaşa, rəngli və detallı çap imkanı verir. Helloprint.az olaraq yalnız özümüzün təmin etdiyimiz rəngli və qara geyimlər üzərinə çap edirik."
       },
       "common": {
-        "headerOne": "Flex / Vinyl",
+        "headerOne": "Flex / Vinil",
         "headerTwo": "DTG"
       },
       "tableFlex": {
-        "header": {
-          "title": "Contour gesneden uit Flex Vinyl of Full Colour op SportFilm",
-          "subTitle": ""
-        },
         "columnHeaders": {
-          "headSingleColored": "Éénkleurig"
+          "headSingleColored": "Tək rəng"
         },
         "variants": {
-          "frontChestLogo": "Borstlogo voor (max. 10 x 10 cm)",
-          "frontBackLarge": "Voor- of achterkant groot",
-          "frontSmallBackLarge": "Voorkant klein en achterkant groot"
+          "frontChestLogo": "Sinə loqosu (max. 10×10 sm)",
+          "frontBackLarge": "Ön və ya arxa böyük çap",
+          "frontSmallBackLarge": "Ön kiçik, arxa böyük çap"
         }
       },
       "tableDtg": {
-        "header": {
-          "title": "Print direct op kleding",
-          "subTitle": ""
-        },
         "columnHeaders": {
-          "headTextileWhite": "Wit textiel",
-          "headTextileColor": "Gekleurd textiel"
+          "headTextileWhite": "Ağ parça",
+          "headTextileColor": "Rəngli parça"
         },
         "variants": {
-          "frontChestLogo": "Borstlogo voor (max. 10 x 10 cm)",
-          "frontBackLarge": "Voor- of achterkant groot",
-          "frontSmallBackLarge": "Voorkant klein en achterkant groot"
+          "frontChestLogo": "Sinə loqosu (max. 10×10 sm)",
+          "frontBackLarge": "Ön və ya arxa böyük çap",
+          "frontSmallBackLarge": "Ön kiçik, arxa böyük çap"
         }
       }
     },
     "notifications": {
-      "first": "- Wilt u een kleur die wij niet op voorraad hebben? Dan komt er € 7,95 orderkosten bij.",
-      "second": "- Voor grote maten, 3XL-5XL geldt een toeslag van € 2,00 per stuk.",
-      "third": "- Bedrukken op uw eigen kleding is op eigen risico.",
-      "fourth": "- Kleding dient schoon/gewassen te zijn."
+      "first": "- Mövcud olmayan rəng üçün sifarişdə əlavə 7.95 ₼ xərci ola bilər.",
+      "second": "- Böyük ölçülər (3XL‑5XL) üçün əlavə 2 ₼ ödəniş edilir.",
+      "third": "- Öz geyiminizə çap yalnız sizin məsuliyyətinizdədir.",
+      "fourth": "- Çap üçün geyim təmiz olmalıdır."
     }
   },
   "customPrintPage": {
-    "overviewTitle": "Een overzicht van ons aanbod in drukwerk",
-    "overviewIntroduction": "Ontdek ons uitgebreide aanbod aan drukwerk mogelijkheden. Van visitekaartjes en flyers tot stickers en grootformaat drukwerk, wij bieden oplossingen voor elke behoefte. Klik op een categorie voor meer informatie en laat u inspireren door de mogelijkheden",
+    "overviewTitle": "Çap məhsullarımızın siyahısı",
+    "overviewIntroduction": "Helloprint.az geniş çap imkanları təqdim edir: vizit kartlar, flayerlər, stikerlər, qovluqlar, afişalar və daha çoxu. Hər məhsul yüksək keyfiyyətli materiallarda hazırlanır.",
     "stickers": {
       "pageHeader": {
-        "title": "Stickers",
-        "introduction": "Onze stickers zijn in verschillende formaten, vormen en oplages verkrijgbaar. Kleine oplagen worden per A4 berekend, grote oplagen gaan per vierkante meter. Dit wordt eerst door ons berekend en overlegd met de klant.<br /><br />Of het nu ronde, ovale, grote of kleine stickers moeten worden, bij ons vindt u de perfecte sticker. De stickers worden geprint op zelfklevend wit vinyl."
+        "title": "Stikerlər",
+        "introduction": "Müxtəlif ölçü və formada stikerlər. Reklam, brendinq və dekorasiya üçün idealdır. Yapışqanlı vinil material üzərində çap olunur."
       },
       "cardLargeFormat": {
         "header": {
-          "introduction": "U heeft de keuze uit wit glans vinyl, wit mat vinyl of transparant vinyl, afhankelijk van de uitstraling die u wenst. Glans vinyl zorgt voor heldere kleuren en een luxe afwerking, terwijl mat vinyl een subtiele, elegante look biedt. Transparant vinyl is ideaal als u de ondergrond deels zichtbaar wilt houden. <br /> <br /> <b>Let op:</b> Voor stickers met een totaaloppervlak groter dan A4 wordt de prijs op aanvraag berekend."
+          "introduction": "Parlaq, mat və ya şəffaf vinil seçimləri mövcuddur. Parlaq vinil canlı rənglər üçün, mat vinil isə zərif görünüş üçün uyğundur. Şəffaf vinil alt səthin görünməsini təmin edir."
         },
         "tableLargeFormat": {
           "header": {
-            "title": "Groot formaat",
-            "subTitle": "Zelfklevend, UV bestendig, glans, mat of transparant, wit vinyl"
+            "title": "Böyük format",
+            "subTitle": "UV davamlı, parlaq, mat və ya şəffaf vinil"
           },
           "columnHeaders": {
-            "headerOne": "Formaat",
-            "headerTwo": "Prijs"
+            "headerOne": "Ölçü",
+            "headerTwo": "Qiymət"
           },
           "rowHeaders": {
             "headerOne": "A4",
-            "headerTwo": "Vierkante Meter"
+            "headerTwo": "Kvadrat metr"
           }
         }
       }
     },
     "cards": {
       "pageHeader": {
-        "title": "Visitekaartjes",
-        "introduction": "Voor het afdrukken van visitekaartjes hanteren wij een minimale afname van 100 stuks. De kaartjes worden gedrukt op hoogwaardig 350 grams of 400 grams papier, wat zorgt voor een stevige en professionele uitstraling.<br /> <br />De genoemde prijzen zijn gebaseerd op één enkel bestand. Houd er rekening mee dat de prijs voor dubbelgevouwen visitekaartjes verdubbeld wordt. Na het drukken worden de kaartjes zorgvuldig gesneden en netjes verpakt in een plastic bewaardoosje, zodat ze in perfecte staat bij u worden afgeleverd."
+        "title": "Vizit Kartlar",
+        "introduction": "Minimum sifariş 100 ədəd. 350 və ya 400 qramlıq yüksək keyfiyyətli kağızda çap olunur."
       },
       "cardDigitalPrint": {
         "header": {
-          "title": "DIGITAAL GEPRINT",
-          "subTitle": "350 grams papier",
-          "introduction": "Deze prijstabel betreft digitaal geprinte visitekaartjes op stevig 350 grams papier. U heeft de keuze tussen zwart-wit of kleurafdrukken en kunt kiezen voor enkelzijdige of dubbelzijdige bedrukking. Hiermee biedt u een professionele uitstraling, ongeacht de keuze die u maakt voor uw visitekaartjes."
+          "title": "RƏQƏMSAL ÇAP",
+          "subTitle": "350 qram kağız",
+          "introduction": "Tək və ya ikiüzlü, rəngli və ya qara‑ağ çap seçimləri mövcuddur."
         },
         "tableColor": {
           "header": {
-            "title": "Kleur",
-            "subTitle": "350 grams papier"
-          },
-          "columnHeaders": {
-            "headerOne": "Kaarten",
-            "headerTwo": "Enkelzijdig",
-            "headerThree": "Dubbelzijdig"
+            "title": "Rəngli",
+            "subTitle": "350 qram kağız"
           }
         },
         "tableBlackAndWhite": {
           "header": {
-            "title": "Zwart-wit",
-            "subTitle": "350 grams papier"
-          },
-          "columnHeaders": {
-            "headerOne": "Kaarten",
-            "headerTwo": "Enkelzijdig",
-            "headerThree": "Dubbelzijdig"
+            "title": "Qara‑ağ",
+            "subTitle": "350 qram kağız"
           }
         }
       },
       "cardOffsetPrint": {
         "header": {
-          "title": "DRUKWERK",
-          "subTitle": "400 grams papier",
-          "introduction": "Deze prijstabel betreft visitekaartjes gedrukt op stevig 400 grams papier in kleur. U kunt kiezen voor enkelzijdige afdrukken met glanzend UV-lak, of voor dubbelzijdige afdrukken met matte dispersielak. Deze afwerkingsopties zorgen voor een verfijnde uitstraling, afhankelijk van uw voorkeur voor glans of een subtiele matte afwerking."
+          "title": "OFSET ÇAP",
+          "subTitle": "400 qram kağız",
+          "introduction": "UV‑laklı və ya mat örtüklü ofset çap vizit kartlar."
         },
         "tableOffsetPrint": {
           "header": {
-            "title": "Kleur",
-            "subTitle": "400 grams houtvrij mc (maco) mat papier"
+            "title": "Rəngli",
+            "subTitle": "400 qram mat kağız"
           },
           "columnHeaders": {
-            "headerOne": "Kaarten",
-            "headerTwo": "Enkelzijdig - UV-lak glanzend",
-            "headerThree": "Dubbelzijdig - Dispersielak mat"
+            "headerOne": "Kartlar",
+            "headerTwo": "Təküzlü — UV‑lak parlaq",
+            "headerThree": "İkiüzlü — Mat örtük"
           }
         }
       }
     },
     "flyers": {
       "pageHeader": {
-        "title": "Flyers",
-        "introduction": "Hier vindt u een overzicht van de kosten voor het afdrukken van flyers in A6- en A5-formaat, met de keuze voor zowel enkelzijdige als dubbelzijdige drukwerkopties.<br /><br />U kunt kiezen uit verschillende papiersoorten om de ideale uitstraling voor uw flyers te realiseren, afgestemd op uw wensen en het beoogde gebruik."
+        "title": "Flayerlər",
+        "introduction": "A6 və A5 formatında, tək və ikiüzlü, müxtəlif kağız qalınlıqlarında flayer çapı. Reklam, tədbir və təqdimatlar üçün ideal seçim."
       },
       "cardDigitalPrint": {
         "header": {
-          "title": "DIGITAAL GEPRINT",
-          "subTitle": "A6 en A5 Formaat",
-          "introduction": "Deze prijstabel betreft digitaal geprinte flyers in A6- of A5-formaat. U kunt kiezen uit drie verschillende papiersoorten: 90 grams, 150 grams of 250 grams, afhankelijk van uw voorkeur voor de dikte van het papier. De flyers kunnen zowel enkelzijdig als dubbelzijdig worden gedrukt, zodat u de opmaak kunt afstemmen op uw wensen. De digitale afdrukken garanderen scherpe en heldere kleuren voor een professionele uitstraling.",
-          "digitalPrintDeliveryTime": "Levertijd 1-2 werkdagen"
+          "title": "RƏQƏMSAL ÇAP",
+          "subTitle": "A6 və A5 Format",
+          "introduction": "90, 150 və 250 qram kağız variantları. Canlı rənglər və aydın çap keyfiyyəti təmin olunur.",
+          "digitalPrintDeliveryTime": "Çatdırılma 1‑2 iş günü"
         },
         "common": {
-          "headerOne": "Flyers",
-          "headerTwo": "90gr",
-          "headerThree": "150gr",
-          "headerFour": "250gr",
-          "subTitleOne": "Enkelzijdig",
-          "subTitleTwo": "Dubbelzijdig"
-        },
-        "tableA6": {
-          "header": {
-            "title": "A6 Formaat"
-          }
-        },
-        "tableA5": {
-          "header": {
-            "title": "A5 Formaat"
-          }
+          "headerOne": "Flayerlər",
+          "headerTwo": "90qr",
+          "headerThree": "150qr",
+          "headerFour": "250qr",
+          "subTitleOne": "Təküzlü",
+          "subTitleTwo": "İkiüzlü"
         }
       },
       "cardOffsetPrint": {
         "header": {
-          "title": "DRUKWERK",
-          "subTitle": "A6 en A5 Formaat",
-          "introduction": "Dit prijsvoorbeeld betreft flyers in A6- of A5-formaat, gedrukt op papier van 135 gram, 170 gram of 250 gram. Afhankelijk van uw voorkeur voor de dikte van het papier, kunt u de juiste keuze maken voor de uitstraling van uw flyer. De flyers worden dubbelzijdig worden gedrukt, dit biedt een professionele uitstraling en is ideaal voor zowel promotionele als informatieve doeleinden.",
-          "offsetPrintDeliveryTime": "Levertijd 7 werkdagen"
-        },
-        "common": {
-          "headerOne": "Flyers",
-          "headerTwo": "90gr",
-          "headerThree": "150gr",
-          "headerFour": "250gr",
-          "subTitleOne": "Enkelzijdig",
-          "subTitleTwo": "Dubbelzijdig"
-        },
-        "tableA5": {
-          "header": {
-            "title": "A5 Formaat"
-          }
-        },
-        "tableA6": {
-          "header": {
-            "title": "A6 Formaat"
-          }
+          "title": "OFSET ÇAP",
+          "subTitle": "A6 və A5 Format",
+          "introduction": "135, 170 və 250 qram kağız variantlarında böyük tirajlı çap. İdeal reklam və təqdimatlar üçün.",
+          "offsetPrintDeliveryTime": "Çatdırılma 7 iş günü"
         }
       }
     },
     "folders": {
       "pageHeader": {
-        "title": "Folders",
-        "introduction": "Hier vindt u een overzicht van de kosten voor het afdrukken van folders in A3- en A4-formaat. U kunt kiezen uit een 2-slag of 3-slag vouwwijze, afhankelijk van de boodschap die u wilt overbrengen en de ruimte die u hiervoor nodig hebt. De verschillende papiersoorten zorgen voor een professionele uitstraling die aansluit bij het doel van uw folder.<br /><br />De prijzen worden overzichtelijk weergegeven per papiersoort en oplage, zodat u snel een keuze kunt maken die past bij uw wensen en budget."
-      },
-      "common": {
-        "headerOne": "Folders",
-        "headerTwo": "80gr",
-        "headerThree": "135gr",
-        "headerFour": "150gr",
-        "headerFive": "170gr",
-        "headerSix": "250gr",
-        "subTitleOne": "Enkelzijdig",
-        "subTitleTwo": "Dubbelzijdig"
-      },
-      "cardDigitalPrint": {
-        "header": {
-          "title": "DIGITAAL GEPRINT",
-          "subTitle": "A4 Formaat",
-          "introduction": "Dit overzicht is voor digitale A4-folders, beschikbaar in kleur op 150 grams, 170 grams of 250 grams papier, of zwart-wit op 80 grams papier. U kunt kiezen uit een 2- of 3-slag uitvoering, afhankelijk van de hoeveelheid informatie die u wilt presenteren. Dit formaat is ideaal voor het verspreiden van gedetailleerde informatie of promoties. Het materiaal biedt een professionele uitstraling, en de verschillende papiersoorten geven u de flexibiliteit om de juiste uitstraling voor uw boodschap te kiezen.",
-          "notification": "Levertijd 7 werkdagen"
-        },
-        "tableColor": {
-          "header": {
-            "title": "A4 Formaat - 2 of 3-slag",
-            "subTitle": "Kleur"
-          }
-        },
-        "tableBlackAndWhite": {
-          "header": {
-            "title": "A4 Formaat - 2 of 3-slag",
-            "subTitle": "Zwart-wit - 80 grams wit of gekleurd papier"
-          }
-        }
-      },
-      "cardOffsetPrint": {
-        "header": {
-          "title": "DRUKWERK",
-          "subTitle": "A4 en A3 Formaat",
-          "introduction": "Dit overzicht is voor A4-folders in 2- of 3-slag formaat, of A3-folders in 3-slag formaat. De folders worden in kleur geprint op 135 grams, 170 grams of 250 grams papier. Dit maakt ze ideaal voor het presenteren van gedetailleerde informatie of promoties op een professionele manier. Dankzij de verschillende papiersoorten kunt u de juiste uitstraling kiezen die past bij uw boodschap.",
-          "offsetPrintDeliveryTime": "Levertijd 7 werkdagen"
-        },
-        "tableA4Trifold": {
-          "header": {
-            "title": "A4 formaat | 3-slag",
-            "subTitle": "Kleur"
-          }
-        },
-        "tableA4Bifold": {
-          "header": {
-            "title": "A4 Formaat | 2-slag",
-            "subTitle": "Kleur"
-          }
-        },
-        "tableA3": {
-          "header": {
-            "title": "A3 Formaat | 3-slag",
-            "subTitle": "Kleur"
-          }
-        }
+        "title": "Qovluqlar",
+        "introduction": "A3 və A4 formatlarında, 2 və ya 3 qatlı, müxtəlif kağız qalınlıqları ilə peşəkar qovluq çapı."
       }
     },
     "posters": {
       "pageHeader": {
-        "title": "Posters",
-        "introduction": "Verken de beschikbare opties voor het printen van posters, waarbij u kunt kiezen uit verschillende formaten en papiersoorten. Deze keuzes stellen u in staat de presentatie van uw poster nauwkeurig af te stemmen op het gewenste resultaat. Van een gedetailleerde zwart-wit afdruk tot een kleurrijke weergave, we bieden een scala aan mogelijkheden die aansluiten bij de specifieke eisen van uw project.<br /><br />Raadpleeg de onderstaande opties voor een overzicht van de beschikbare combinaties"
-      },
-      "common": {
-        "headerOne": "Posters",
-        "headerTwo": "1-5 stuks",
-        "headerThree": "6-10 stuks",
-        "headerFour": "10+ stuks",
-        "headerFive": "Per stuk"
-      },
-      "cardColorOrBlackAndWhite": {
-        "header": {
-          "title": "Kleur of Zwart-wit",
-          "subTitle": "80 grams papier",
-          "introduction": "Wij bieden posters op 80 grams papier, beschikbaar in zowel kleur als zwart-wit. Dit papier is ideaal voor het printen van posters die een lichtgewicht, maar kwalitatief goed resultaat vereisen voor zowel binnen- als buitengebruik.",
-          "notification": "Levertijd 1-2 werkdagen"
-        },
-        "tableColor": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "80 grams papier"
-          }
-        },
-        "tableBlackAndWhite": {
-          "header": {
-            "title": "Zwart-wit",
-            "subTitle": "80 grams papier"
-          }
-        }
-      },
-      "cardColorHeavyPaper": {
-        "header": {
-          "title": "Kleur",
-          "subTitle": "160 tot 260 grams papier",
-          "introduction": "Daarnaast bieden we ook andere papiersoorten aan, te weten 160 grams mat, 160 grams satijn, 190 grams glanzend en 260 grams satijn papier. Al deze opties zijn beschikbaar voor kleurafdrukken en bieden een professionele afwerking, geschikt voor uiteenlopende toepassingen waarbij zowel duurzaamheid als visuele impact van belang zijn. Elk type papier biedt specifieke eigenschappen voor een optimale presentatie van uw ontwerp, afhankelijk van de gewenste uitstraling en het beoogde gebruik."
-        },
-        "table160gsmMatte": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "160 grams mat papier"
-          }
-        },
-        "table160gsmSatin": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "160 grams satijn papier"
-          }
-        },
-        "table190gsmGloss": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "190 grams glanzend papier"
-          }
-        },
-        "table260gsmSatin": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "260 grams satijn papier"
-          }
-        }
-      },
-      "cardColorSpecialMaterials": {
-        "header": {
-          "title": "Kleur",
-          "subTitle": "Speciale materialen",
-          "introduction": "Voor onze posters in speciale materialen bieden wij polypropyleen en 260 grams geschept papier aan. Deze materialen zijn beschikbaar voor kleurafdrukken en bieden unieke eigenschappen die ze geschikt maken voor specifieke toepassingen waarbij duurzaamheid en een onderscheidende uitstraling belangrijk zijn. Polypropyleen is waterbestendig en zeer stevig, ideaal voor buitengebruik of in omgevingen waar de poster langdurig moet blijven hangen. Het geschepte papier biedt een natuurlijke, handgemaakte uitstraling, wat het geschikt maakt voor luxe of artistieke projecten."
-        },
-        "tablePolypropylene": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "Polypropyleen"
-          }
-        },
-        "table260gsmHandmade": {
-          "header": {
-            "title": "Kleur",
-            "subTitle": "260 grams geschept papier"
-          }
-        }
-      },
-      "cardColorA3": {
-        "header": {
-          "title": "Kleur",
-          "subTitle": "A3 Formaat",
-          "introduction": "Voor posters in A3-formaat bieden wij twee opties in verschillende kwaliteiten en materialen. De hoge kwaliteit variant is geprint op 150 grams papier en kan aflopend worden geleverd, ideaal voor een premium uitstraling. Daarnaast bieden we een budgetvriendelijke optie, gedrukt op 80 grams papier met een witrand. Beide beschikbaar voor full color afdrukken."
-        },
-        "table150gsm": {
-          "header": {
-            "title": "A3 Hoge kwaliteit - Full color",
-            "subTitle": "Aflopend geprint op 150 grams papier"
-          }
-        },
-        "table80gsm": {
-          "header": {
-            "title": "A3 Budget kwaliteit - Full color",
-            "subTitle": "Met witrand op 80 grams papier"
-          }
-        }
+        "title": "Afişalar",
+        "introduction": "Müxtəlif format və kağızlarda afişa çapı. Reklam, tədbir və elanlar üçün yüksək keyfiyyətli çap."
       }
-    },
-    "common": {
-      "digitalPrintDeliveryTime": "Levertijd 1-2 werkdagen",
-      "offsetPrintDeliveryTime": "Levertijd 7 werkdagen",
-      "deliveryDisclaimer": "Levertijden altijd onder voorbehoud. Hier kunnen geen rechten aan verleend worden. Wij zijn niet verantwoordelijk voor eventuele vertraging door onze huisdrukker.",
-      "pricesBasedonSelfService": "Prijzen zijn gebaseerd op self-service."
     }
   },
   "copyPrintPage": {
     "pageHeaderContent": {
-      "title": "Kopiëren en printen",
-      "introduction": "Bij ons kunt u eenvoudig en snel uw kopieën en prints verzorgen. Met onze self-service printers kunt u direct documenten printen vanaf een USB-stick of downloaden vanuit uw e-mail.",
-      "subTitle": "Lamineren",
-      "subText": "Daarnaast bieden wij mogelijkheden voor inbinden en lamineren, zodat uw documenten een nette en professionele uitstraling krijgen. Ideaal voor zakelijke doeleinden, studieprojecten of persoonlijke documenten."
-    },
-    "cardBudget": {
-      "header": {
-        "title": "BUDGET",
-        "subTitle": "Kleur of Zwart-wit",
-        "introduction": "Voor het kopiëren en printen bieden wij budgetvriendelijk A4-papier van 80 gram, geschikt voor zowel kleur- als zwart-wit afdrukken. Dit papier is ideaal voor alledaagse print- en kopieerbehoeften. De genoemde prijzen zijn gebaseerd op self-service, waardoor u snel en voordelig uw documenten kunt verwerken. Gebruik hiervoor printers 1 t/m 3."
-      },
-      "tableColor": {
-        "title": "A4 Kleur | Printer 1 t/m 3",
-        "subTitle": "80 grams papier"
-      },
-      "tableBlackAndWhite": {
-        "title": "A4 Zwart-wit | Printer 1 t/m 3",
-        "subTitle": "80 grams papier"
-      }
-    },
-    "cardHq": {
-      "header": {
-        "title": "HOGE KWALITEIT",
-        "subTitle": "Kleur of Zwart-wit",
-        "introduction": "Voor hoogwaardige kopieën en prints bieden wij A4-papier van 90 gram, geschikt voor zowel kleur- als zwart-wit afdrukken. Dit papier zorgt voor een professionele uitstraling met een stevigere en gladdere afwerking. Voor het beste resultaat dient u gebruik te maken van printer 4, die speciaal is ingesteld voor deze papierkwaliteit."
-      },
-      "tableHq": {
-        "title": "A4 Kleur of Zwart-wit | Printer 4",
-        "subTitle": "90 grams papier"
-      }
-    },
-    "notifications": {
-      "first": "Budget prijzen zijn gebaseerd op self-service, aangeleverde opdrachten (per email) worden uitsluitend geprint op papier van hoge kwaliteit.",
-      "second": "- A3 formaat is 2x de printprijs.",
-      "third": "- Dubbelzijdige prints tellen als 2 prints."
+      "title": "Kopyalama və Çap",
+      "introduction": "Helloprint.az‑da sənədlərinizi tez və keyfiyyətli çap edə bilərsiniz. USB və e‑mail üzərindən birbaşa çap imkanı mövcuddur.",
+      "subTitle": "Laminasiya",
+      "subText": "Sənədlərinizi bükdürmək və laminasiya etdirmək imkanımız var."
     }
   },
   "officeSupplies": {
-    "title": "Kantoor artikelen",
-    "introduction": "Efficiënt werken begint met de juiste kantoorbenodigdheden. In onze winkel vindt u een breed assortiment kantoorartikelen, van schrijfwaren en ordners tot enveloppen en etiketten. Daarnaast bieden we een grote selectie cartridges voor diverse printers, zodat u altijd scherp en helder kunt afdrukken.<br /><br />Ons aanbod bestaat uit producten van bekende merken, geselecteerd op kwaliteit en betrouwbaarheid."
+    "title": "Ofis Ləvazimatları",
+    "introduction": "Yazı ləvazimatları, qovluqlar, zərflər, etiketlər və printer kartricləri — işiniz üçün hər şey."
   },
   "PaperWeights": {
-    "80gr": "80 grams papier",
-    "80grShort": "80gr",
-    "80grLong": "Met witrand op 80 grams papier",
-    "90gr": "90 grams papier",
-    "90grShort": "90gr",
-    "135gr": "135 grams papier",
-    "135grShort": "135gr",
-    "150gr": "150 grams papier",
-    "150grShort": "150gr",
-    "150grLong": "Aflopend geprint op 150 grams papier",
-    "160gr": "160 grams",
-    "160grMat": "160 grams mat papier",
-    "160grSatin": "160 grams satijn papier",
-    "170gr": "170 grams papier",
-    "170grShort": "170gr",
-    "190grGloss": "190 grams glanzend papier",
-    "250gr": "250 grams papier",
-    "250grShort": "250gr",
-    "260gr": "260 grams",
-    "260grSatin": "260 grams satijn papier",
-    "260grHandMade": "260 grams geschept papier",
-    "350gr": "350 grams papier",
-    "400gr": "400 grams papier",
-    "400grMc": "400 grams papier houtvrij mc (maco) mat",
-    "range160grTo260gr": "160 grams tot 260 grams papier"
+    "80gr": "80 qram kağız",
+    "90gr": "90 qram kağız",
+    "135gr": "135 qram kağız",
+    "150gr": "150 qram kağız",
+    "170gr": "170 qram kağız",
+    "250gr": "250 qram kağız",
+    "260gr": "260 qram kağız",
+    "350gr": "350 qram kağız",
+    "400gr": "400 qram kağız"
   },
   "paperFormats": {
-    "A3Budget": "A3 Budget kwaliteit",
-    "A3Format": "A3 formaat",
-    "A3Hq": "A3 Hoge kwaliteit",
-    "A3Trifold": "A3 formaat | 3-slag",
-    "A4AndA3Format": "A4 en A3 formaat",
+    "A3Format": "A3 format",
     "A4": "A4",
-    "A4Bifold": "A4 formaat | 2-slag",
-    "A4BifoldOrTrifold": "A4 formaat | 2 of 3-slag",
-    "A4BlackWhite": "A4 Zwart-wit",
-    "A4Color": "A4 Kleur",
-    "A4ColorOrBlackWhite": "A4 Kleur of zwart-wit",
-    "A4FormatComplete": "A4 formaat",
-    "A4Trifold": "A4 formaat | 3-slag",
-    "A4WhiteOrColoredPaper": "| Wit of gekleurd papier",
     "A5": "A5",
-    "A5FormatComplete": "A5 formaat",
     "A6": "A6",
-    "A6AndA5Format": "A6 en A5 formaat",
-    "largeFormat": "Groot formaat",
-    "largeFormatCapital": "GROOT FORMAAT",
-    "fullColor": "| Full color"
+    "largeFormat": "Böyük format",
+    "fullColor": "Tam rəng"
   },
   "contactPage": {
-    "pageTitle": "Neem contact op",
-    "contactIntroduction": "Heeft u vragen over onze producten of diensten, of wilt u meer weten over de bijbehorende kosten? Vul dan ons formulier in, en wij zorgen ervoor dat u snel en geheel vrijblijvend een offerte ontvangt.",
-    "sendMessage": "Stuur een bericht",
-    "formUserName": "Naam",
-    "formUserTelNumber": "Telefoonnummer",
-    "formUserEmailAdress": "E-mailadres",
-    "messageSubject": "Onderwerp",
-    "messageContent": "Bericht",
-    "messageSubmit": "Versturen",
-    "messageSubmitLoading": "Versturen...",
-    "closed": "gesloten"
+    "pageTitle": "Bizimlə Əlaqə",
+    "contactIntroduction": "Məhsul və ya xidmətlərimizlə bağlı suallarınız üçün formu doldurun — sizə ən qısa zamanda cavab verəcəyik.",
+    "sendMessage": "Mesaj göndər",
+    "formUserName": "Ad Soyad",
+    "formUserTelNumber": "Telefon",
+    "formUserEmailAdress": "E‑mail",
+    "messageSubject": "Mövzu",
+    "messageContent": "Mesaj",
+    "messageSubmit": "Göndər",
+    "closed": "Bağlı"
   },
   "termsOfSale": {
-    "title": "Verkoopvoorwaarden",
+    "title": "Satış Şərtləri",
     "term-1": {
-      "title": "1. Erkenning van onze voorwaarden",
-      "termContent": "De volgende voorwaarden zijn van toepassing op elke offerte, verkoop of uitgevoerd werk door 't Hartje.<br />De koper/besteller wordt geacht de algemene voorwaarden zoals hierna bedongen te kennen en te aanvaarden."
+      "title": "1. Şərtlərin Qəbulu",
+      "termContent": "Helloprint.az vasitəsilə verilən hər sifariş bu şərtlərə tabedir."
     },
     "term-2": {
-      "title": "2. Offertes",
-      "termContent": "Onze prijzen en aanbiedingen zijn vrijblijvend en zonder verbintenis.<br />Alle geoffreerde prijzen zijn inclusief BTW, tenzij anders vermeld.<br />Onze offertes zijn slechts geldig voor een maximum termijn van 14 dagen na datum van de offerte."
+      "title": "2. Qiymətlər",
+      "termContent": "Bütün qiymətlər AZN ilə göstərilir və KDV daxildir."
     },
     "term-3": {
-      "title": "3. Bestelling",
-      "termContent": "a) eenmaal de bestelling is geplaatst, is annulering enkel mogelijk mits wederzijds akkoord.<br />b) Indien de bestelling eenzijdig verbroken wordt door de klant, dient de klant alsnog het totale bedrag te voldoen."
+      "title": "3. Ödəniş",
+      "termContent": "Sifariş təsdiqləndikdən sonra tam ödəniş edilməlidir."
     },
     "term-4": {
-      "title": "4. Betaling",
-      "termContent": "Orders geplaatst bij ons in de winkel kunnen bij afhalen betaald worden, u kunt bij ons pinnen of contant betalen.<br />Orders die door ons geplaatst worden bij onze huisdrukker dienen vooraf volledig te worden betaald.<br />Indien het orderbedrag niet betaald is binnen de door ons gestelde betalingstermijn (14 dagen) en na een herinnering<br />van onze kant betaling nog uitblijft, behouden wij het recht om een incassobureau in te schakelen.<br />De bijkomende incassokosten zijn voor rekening van de klant."
+      "title": "4. Çatdırılma",
+      "termContent": "Çatdırılma vaxtları təxmini olaraq göstərilir."
     },
     "term-5": {
-      "title": "5. Prijzen",
-      "termContent": "'t Hartje behoudt het recht om prijzen te wijzigen, i.v.m. fluctuerende prijsstijgingen van papier en drukkosten."
-    },
-    "term-6": {
-      "title": "6. Leveringen",
-      "termContent": "Wij doen onze uiterste best om ons aan de afgesproken levertijd te houden.<br />Echter kunnen hier geen rechten aan ontleend worden.<br />Bij orders geplaatst bij onze huisdrukker zijn de levertijden altijd onder voorbehoud."
-    },
-    "term-7": {
-      "title": "7. Klachten",
-      "termContent": "Heeft u een klacht over het geleverde artikel? Dan dient u dit binnen 2 werkdagen te melden."
+      "title": "5. Şikayətlər",
+      "termContent": "Məhsul qüsurlu olarsa, 2 iş günü ərzində bizə bildirin."
     }
   },
   "commonSentences": {
-    "tableCaption": "Tabel met opties en de bijbehorende prijzen."
+    "tableCaption": "Qiymət cədvəli"
   },
   "commonWords": {
-    "color": "Kleur",
-    "colored": "Gekleurd",
-    "colorCapital": "KLEUR",
-    "blackAndWhite": "Zwart-wit",
-    "colorOrBlackWhite": "Kleur of zwart-wit",
-    "colorOrBlackWhiteCapital": "KLEUR OF ZWART/WIT",
-    "singleSided": "Enkelzijdig",
-    "doubleSided": "Dubbelzijdig",
-    "textile": "Textiel",
-    "amount": "Aantal",
-    "pricePerPrint": "Prijs per print",
-    "pricePerPiece": "Prijs per stuk",
-    "perPiece": "Per stuk",
-    "prints": "Prints",
-    "price": "Prijs",
-    "clothingGarment": "Kledingstuk",
-    "format": "Formaat",
-    "cards": "Kaarten",
-    "flyers": "Flyers",
-    "folders": "Folders",
-    "posters": "Posters",
+    "color": "Rəngli",
+    "blackAndWhite": "Qara‑ağ",
+    "singleSided": "Təküzlü",
+    "doubleSided": "İkiüzlü",
+    "textile": "Tekstil",
+    "amount": "Miqdar",
+    "price": "Qiymət",
+    "format": "Format",
+    "cards": "Kartlar",
+    "flyers": "Flayerlər",
+    "folders": "Qovluqlar",
+    "posters": "Afişalar",
     "facebook": "Facebook",
-    "telephoneNo": "Telefoonnummer",
-    "email": "E-mailadres"
+    "telephoneNo": "Telefon",
+    "email": "E‑mail"
   }
 }
