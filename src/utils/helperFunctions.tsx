@@ -1,9 +1,30 @@
+import { FC, useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
+
+/**
+ * ScrollToTop
+ * Səhifə dəyişdikdə avtomatik olaraq yuxarı scroll edir
+ */
+export const ScrollToTop: FC = () => {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [pathname]);
+
+  return null;
+};
+
+/**
+ * QuantityDisplay
+ * Qiymətləri və miqdarları seçilmiş dilə uyğun formatlayır
+ */
 export const QuantityDisplay: FC<{
   value: string | number;
   language: string;
   isCurrency?: boolean;
 }> = ({ value, language, isCurrency = false }) => {
-  // Azərbaycan dilini dəstəkləmək üçün dil kodunu yoxlayırıq
+  // Azərbaycan dilini dəstəkləmək üçün dil kodunu uyğunlaşdırırıq
   const langCode = language === 'aze' ? 'az-Latn-AZ' : language;
 
   // 1. Aralıq formatı (məsələn: 100-1000)
