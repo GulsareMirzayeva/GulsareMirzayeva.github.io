@@ -58,3 +58,13 @@ export const homeContentPaths = {
   welcomeMessage: 'home.welcomeMessage',
   ctaButton: 'home.ctaButton',
 };
+
+// Paths to contact form text content
+export const contactFormTextContentPaths = {
+  namePlaceholder: 'contactForm.namePlaceholder',
+  emailPlaceholder: 'contactForm.emailPlaceholder',
+  messagePlaceholder: 'contactForm.messagePlaceholder',
+  sendButton: 'contactForm.sendButton',
+  successMessage: 'contactForm.successMessage',
+  errorMessage: 'contactForm.errorMessage',
+};
