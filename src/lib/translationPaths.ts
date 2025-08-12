@@ -43,3 +43,13 @@ export const menuButtonNames = {
   officeSupplies: 'menu.articles',
 };
 
+// Paths to contact info content in translation files
+export const contactInfoTextContent = {
+  contactTitle: 'shopInfo.contact.contactTitle',
+  contactDetails: 'shopInfo.contact.contactDetails',
+  phone: 'shopInfo.contact.phone',
+  email: 'shopInfo.contact.email',
+  address: 'shopInfo.contact.address',
+};
+
+
