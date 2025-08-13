@@ -1,5 +1,5 @@
 import logo_light from '../../assets/helloprint_logo_light.png';
-import logo_dark from '../../assets/helloprint_logo_dark.svg';
+import logo_dark from '../../assets/helloprint_logo_dark.png';
 import { homeContentPaths } from '../../lib/translationPaths';
 import { TextBlock } from '../elementTemplates/TextBlock';
 import { useData } from '../../context/DataContext';
