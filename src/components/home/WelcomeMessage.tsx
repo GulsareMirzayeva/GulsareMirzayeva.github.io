@@ -1,4 +1,4 @@
-import logo_light from '../../assets/helloprint_logo_light.svg';
+import logo_light from '../../assets/helloprint_logo_light.png';
 import logo_dark from '../../assets/helloprint_logo_dark.svg';
 import { homeContentPaths } from '../../lib/translationPaths';
 import { TextBlock } from '../elementTemplates/TextBlock';
