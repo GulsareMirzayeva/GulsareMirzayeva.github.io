@@ -1,4 +1,4 @@
-import newPic from '../assets/vakantietijd-small.jpg';
+import newPic from '../assets/flayer_post.jpg';
 
 export default function VacationToastContent() {
   return (
@@ -11,10 +11,16 @@ export default function VacationToastContent() {
       }}
     >
       <img
-        src={newPic}
-        alt="Vakantie"
-        style={{ width: '100%', borderRadius: '6px' }}
-      />
+  src={newPic}
+  alt="Helloprint elan"
+  style={{
+    width: '100%',
+    height: 'auto',
+    borderRadius: '6px',
+    objectFit: 'contain',
+    backgroundColor: '#fff'
+  }}
+/>
     </div>
   );
 }
