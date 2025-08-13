@@ -1,4 +1,4 @@
-import newPic from '../assets/flayer_post.jpg';
+import newPic from '../assets/flayer_post.png';
 
 export default function VacationToastContent() {
   return (
